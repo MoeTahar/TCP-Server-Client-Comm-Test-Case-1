@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # TCP Text Messaging System — Client & Server  
 A simple TCP-based text communication system written in Java.  
 This project demonstrates socket programming, message exchange, and basic networking concepts for **CST8108 – Networking **.
@@ -28,4 +28,3 @@ This project is part of **CET-CS Level 2**, Lab Professor: Mike.
 =======
 # TCP-Server-Client-Comm-Test-Case-1
 TCP Server Client Comm Test Case 1
->>>>>>> 590d89fb626f6b4186ade49960442623a4408ee6
